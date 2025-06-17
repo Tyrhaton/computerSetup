@@ -1,0 +1,2 @@
+#!/bin/bash
+find ~/Downloads -type f -mtime +30 -delete
